@@ -39,6 +39,5 @@ You can find more info about Prisma Migrate in the [Prisma documentation](https:
 
 ## Contributing
 
-Read more about how to contribute to Prisma Migrate [here](https://github.com/prisma/migrate/blob/master/CONTRIBUTING.md).
+Read more about how to contribute to Prisma Migrate [here](https://github.com/prisma/prisma/tree/master/src).
 
-[![Build status](https://badge.buildkite.com/9caba29c5511a465e0cbf0f6b2f62173145d3dd90cf56c4daf.svg)](https://buildkite.com/prisma/migrate)
